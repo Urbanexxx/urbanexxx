@@ -10,12 +10,12 @@ I am an independent AI & Automation Developer. I build fast, production-ready mi
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Urbanexxx&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Urbanex&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Urbanexxx&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Urbanex&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Urbanexxx&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Urbanex&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Urbanexxx&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
